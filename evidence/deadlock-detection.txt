@@ -1,0 +1,4 @@
+﻿Command: java -cp target\classes edu.itc.se.lab01.task5.Bank deadlock
+Captured deadlock watchdog output:
+
+[watchdog] DEADLOCK detected between: transfer-0, transfer-5, transfer-1
